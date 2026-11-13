@@ -17,4 +17,4 @@ Sirva a pasta com qualquer servidor estático (por exemplo `python -m http.serve
 
 ## Ao rodar o SQL gerado
 
-Rode o script dentro de uma transação, confira as linhas afetadas e só então dê COMMIT.
+Rode o script dentro de uma transação, confira as linhas afetadas e só então dê COMMIT. 
